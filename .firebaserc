@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "auth-ionic-e64b7": {
+      "hosting": {
+        "app": [
+          "auth-ionic-e64b7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "auth-ionic-e64b7"
+  }
+}
